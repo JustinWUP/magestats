@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+    <menu>
+        <stats translate="title" module="stats">
+            <title>Stats</title>
+            <sort_order>15</sort_order>
+            <children>
+                <example translate="title" module="stats">
+                    <title>Dashboard</title>
+                    <sort_order>1</sort_order>
+                    <!-- <action>adminhtml/example/index</action> -->
+                    <action>adminhelloworld/index/index</action>
+                </example>
+            </children>
+        </stats>
+    </menu>
+</config>
