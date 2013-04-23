@@ -9,7 +9,7 @@
                     <title>Dashboard</title>
                     <sort_order>1</sort_order>
                     <!-- <action>adminhtml/example/index</action> -->
-                    <action>adminhelloworld/index/index</action>
+                    <action>statsboard/index/index</action>
                 </example>
             </children>
         </stats>

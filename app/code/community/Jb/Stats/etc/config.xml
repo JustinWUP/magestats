@@ -11,7 +11,7 @@
                 <use>admin</use>
                 <args>
                     <module>Jb_Stats</module>
-                    <frontName>adminhelloworld</frontName>
+                    <frontName>statsboard</frontName>
                 </args>
             </stats_stuff>
         </routers>
