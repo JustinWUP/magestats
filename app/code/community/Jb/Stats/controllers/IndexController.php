@@ -6,6 +6,7 @@ class Jb_Stats_IndexController extends Mage_Adminhtml_Controller_Action
     {
         $this->loadLayout();
         $this->renderLayout();
+        echo "hey sup";
     }
 }
 ?>
