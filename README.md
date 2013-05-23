@@ -1,4 +1,4 @@
-magestats
+minimum mage
 =========
 
-Not much to see here yet but it will have a stats dashboard for sales in magento
+This is really just a blank template for a magento admin extension.
